@@ -156,8 +156,8 @@ Implementation Steps:
 
 Implementation:
 
-		import ipywidgets as widgets
-from IPython.display import display
+    import ipywidgets as widgets
+    from IPython.display import display
 
     def track_loan(initial_balance, monthly_payment):
     balance = initial_balance
