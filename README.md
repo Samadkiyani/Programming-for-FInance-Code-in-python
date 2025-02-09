@@ -1,4 +1,4 @@
-# Programming-for-FInance-Code-in-python
+# Programming-for-Finance-Code-in-python
 Programming for finance in Python
 Smart Financial Management System**
 Done By Abdul Samad Saleem Fast University Islamabad Campus
